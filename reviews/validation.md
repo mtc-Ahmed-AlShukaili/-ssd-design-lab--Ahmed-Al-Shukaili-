@@ -12,4 +12,3 @@
 
 ## Traceability check
 - [x] Use case "Register Course" is supported by Student/Course classes
-
